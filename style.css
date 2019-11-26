@@ -1,3 +1,20 @@
 .esports-info {
+  height: 25rem;
+  width: 25rem;
+  border: 4px solid rgb(92, 96, 146);
+  overflow: auto;
   display: inline-block;
+}
+.esports-info-img {
+  width: 100%;
+  height: 15rem;
+}
+
+.dota-tournament-img {
+  width: 20rem;
+  float: left;
+}
+
+.esports-tournaments {
+  height: 20rem;
 }
